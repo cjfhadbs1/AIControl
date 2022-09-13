@@ -4,6 +4,10 @@
 
 - [ ] *마크다운 과제입니다.*
 
+### vim command site
+
+<a>https://phoenixnap.com/kb/wp-content/uploads/2021/11/vim-commands-cheat-sheet-by-pnap.pdf
+
 *이것은 이텔릭입니다*
 
 **이것은 두껍게**
