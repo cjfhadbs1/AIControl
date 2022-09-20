@@ -7,12 +7,9 @@
 ##### This is a H5
 ###### This is a H6
 
-> This is a first blockqute.
-
->      > This is a second blockqute.
-
-
->      >       > This is a third blockqute.
+>This is a first blockqute.
+>>This is a second blockqute.
+>>>This is a third blockqute.
 
 - [ ] *마크다운 과제입니다.*
 
@@ -35,3 +32,20 @@
 - [ ] 꽃
 - [ ] 도라지
 - [x] 풀
+  
+  
+  * 1단계
+     - 2단계
+       + 3단계
+         + 4단계
+  
+  
+```c++
+printf("hello world");
+```
+  
+창원 | 폴리텍
+---- |-------
+윤   |  승희
+  
+  
